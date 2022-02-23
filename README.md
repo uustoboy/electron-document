@@ -1,7 +1,19 @@
-# Vue 3 + Vite
+#### Electron 开发简单富文本编辑器生成H5静态页
+---
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+使用技术：
+&#160;&#160;&#160;&#160;Electon
+&#160;&#160;&#160;&#160;Vue3 + vite
 
-## Recommended IDE Setup
-
-- [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
+使用:
+  ```
+    yarn install 安装
+  ```
+  ```
+    yarn electron:dev 测试
+  ```
+  ```
+    yarn electron:builder 发布
+  ```
+    
+  
